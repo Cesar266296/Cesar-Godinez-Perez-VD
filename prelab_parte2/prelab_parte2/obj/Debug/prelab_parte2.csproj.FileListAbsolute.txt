@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\prelab_parte2\prelab_parte2\bin\Debug\prelab_parte2.exe.config
+C:\Users\HP\source\repos\prelab_parte2\prelab_parte2\bin\Debug\prelab_parte2.exe
+C:\Users\HP\source\repos\prelab_parte2\prelab_parte2\bin\Debug\prelab_parte2.pdb
+C:\Users\HP\source\repos\prelab_parte2\prelab_parte2\obj\Debug\prelab_parte2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\prelab_parte2\prelab_parte2\obj\Debug\prelab_parte2.Form1.resources
+C:\Users\HP\source\repos\prelab_parte2\prelab_parte2\obj\Debug\prelab_parte2.Properties.Resources.resources
+C:\Users\HP\source\repos\prelab_parte2\prelab_parte2\obj\Debug\prelab_parte2.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\prelab_parte2\prelab_parte2\obj\Debug\prelab_parte2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\prelab_parte2\prelab_parte2\obj\Debug\prelab_parte2.exe
+C:\Users\HP\source\repos\prelab_parte2\prelab_parte2\obj\Debug\prelab_parte2.pdb
